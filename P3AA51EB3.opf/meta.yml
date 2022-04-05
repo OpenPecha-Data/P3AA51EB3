@@ -1,0 +1,31 @@
+id: P3AA51EB3
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG12540
+  instance_id: http://purl.bdrc.io/resource/IE1KG12540
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - གསང་སྔགས་རྙིང་མ་བའི་ཞལ་འདོན་ཕྱོགས་སྒྲིག
+  alt_title:
+    zh-hans:
+    - 红教教义
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    85f19d4e0cb24334b496308a1b51aa9c:
+      title: པོད ༡་གསང་སྔགས་རྙིང་མ་བའི་ཞལ་འདོན་ཕྱོགས་སྒྲིག
+      volume_number: 1
+      base_file: UT1KG12540_I1KG12572_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA25DD40051222BAD
+      image_group: I1KG12572
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG12540
+  - http://purl.bdrc.io/resource/W1KG12540
+  ocr_software: Namsel
+created_at: '2021-12-22T10:32:57.019244'
+last_modified_at: '2021-12-22T10:32:57.019249'
